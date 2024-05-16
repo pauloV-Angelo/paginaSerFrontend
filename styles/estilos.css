@@ -60,3 +60,27 @@ body {
 .hero nav a:hover {
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+main {
+    width: 80%;
+    margin: auto;
+    min-width: 400px;
+}
+
+section {
+    padding-top: 16px;
+
+}
+
+article {
+    background-color: white;
+    padding: 16px;
+    margin-bottom: 32px;
+}
+
+article h2 {
+    background-color: #eee;
+    padding: 10px;
+    border-bottom: solid 1px #ccc;
+    margin-top: 0;
+}
